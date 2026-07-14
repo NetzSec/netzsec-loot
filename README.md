@@ -50,8 +50,8 @@ All builds are published on the **[Releases page](https://github.com/NetzSec/net
 1. Open the [latest release](https://github.com/NetzSec/netzsec-loot/releases/latest).
 2. Download the installer for your OS:
    - **Windows** — `.exe`
-   - **macOS** — `.dmg`
-   - **Linux** — `.AppImage` / `.deb`
+   - **macOS** — `./netzec-loot`
+   - **Linux** — `./netzec-loot` / `.deb` / `.rpm`
 3. Run it and launch **NetzSec Loot**.
 4. **Library → Import folder** and point it at your SD card or capture folder.
 
