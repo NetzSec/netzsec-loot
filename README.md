@@ -67,24 +67,7 @@ All builds are published on the **[Releases page](https://github.com/NetzSec/net
 - Windows 10/11, macOS 12+, or a modern Linux distribution.
 - Some capture files to work with (an SD card from an ESP32 device, or any folder of captures).
 - No device, no internet connection, and no account required.
-
----
-
-## Build from source
-
-Requires [Go](https://go.dev/) 1.24+, [Node.js](https://nodejs.org/) 20+, and the [Wails v3](https://v3.wails.io/) CLI.
-
-```bash
-# frontend deps
-cd frontend && npm install && cd ..
-
-# run in dev (hot reload)
-wails3 dev
-
-# or produce a release binary
-wails3 build     # → bin/netzsec-loot(.exe)
-```
-
+- 
 ---
 
 ## Privacy
