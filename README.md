@@ -3,7 +3,6 @@
 <img alt="NetzSec Loot desktop app" src="https://github.com/user-attachments/assets/78107705-ba36-4904-ac86-09c11bf8d7bc" />
 
 <p align="center">
-  <a href="https://github.com/NetzSec/netzsec-loot/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/NetzSec/netzsec-loot?label=download&style=for-the-badge"></a>
   <img alt="Platforms" src="https://img.shields.io/badge/windows%20%C2%B7%20macOS%20%C2%B7%20linux-supported-555?style=for-the-badge">
   <img alt="Privacy" src="https://img.shields.io/badge/no%20accounts%20%C2%B7%20no%20logs-100%25%20local-4f46e5?style=for-the-badge">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-4f46e5?style=for-the-badge">
@@ -67,7 +66,7 @@ All builds are published on the **[Releases page](https://github.com/NetzSec/net
 - Windows 10/11, macOS 12+, or a modern Linux distribution.
 - Some capture files to work with (an SD card from an ESP32 device, or any folder of captures).
 - No device, no internet connection, and no account required.
-- 
+
 ---
 
 ## Privacy
