@@ -1,5 +1,7 @@
 # NetzSec Loot
 
+> **Fork note:** this fork adds a fix for the Map page's black "API KEY REQUIRED" tiles (CARTO now requires an API key). See **[MAP-PATCH.md](MAP-PATCH.md)**.
+
 <img alt="NetzSec Loot desktop app" src="https://github.com/user-attachments/assets/78107705-ba36-4904-ac86-09c11bf8d7bc" />
 
 <p align="center">

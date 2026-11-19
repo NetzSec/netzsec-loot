@@ -1,0 +1,9 @@
+# Binaries (the patched one contains your CARTO key) and key files never go in this repo
+netzsec-loot
+netzsec-loot.*
+*.patched
+*.original
+*.deb
+*.rpm
+carto-key.txt
+*.key
